@@ -1,1 +1,1 @@
-Cloud Native Fundamentals
+Cloud Native Fundamentals - SUSE
