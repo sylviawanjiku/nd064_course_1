@@ -1,2 +1,2 @@
-Cloud Native Fundamentals - SUSE
+Cloud Native Fundamentals 
 2021
